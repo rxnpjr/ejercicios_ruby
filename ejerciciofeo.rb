@@ -15,7 +15,7 @@
 
 # numeros.sort
 # puts numeros[0]
-puts "ponga tres numeros"
+puts "ponga numeros"
 a = [ gets.chomp.to_i, gets.chomp.to_i, gets.chomp.to_i ]
 
 respuesta=a.sort  
